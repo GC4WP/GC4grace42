@@ -8,27 +8,36 @@
 > write and type
 
 
-when I type, my think with the typewriter only split by keyboard, and with the same key size and position ... etc., I can forget how to type, just let muscle auto working, everything will good enough for export my mind.
+When I type, my mind with the typewriter only split by keyboard, and with the same key size and position ... etc., I can forget how to type, just let muscle auto working, everything will good enough for export my thinking.
 
-but this just for English writing, if i back Chinese writing, the word type unto screen, is not only with keyboard, there must need another huy help:
+but this just for English writing, if i come back Chinese writing, the word type unto screen, is not only base keyboard, there must need another guy to help:
 
     IME ~ input method environment
 
-means: I type with keyboard is not display in scree, an first IME got them, and generation choice list of Chinese word, so I had to pick one, then the background system put it unto screen.
+means: I type on keyboard is not display into screen, 
+at first IME got them, and generation choice list of Chinese word, 
+so I had to pick one, 
+then the background system put it unto screen.
 
-this process breaks my Chinese imagination:
+this process break my Chinese imagination:
 
-Everyone Chinese word merged more 3 level means:
+every single Chinese character merged more 3 level purpose:
 
     0: chape like litter paint, talk about one season
     1: voice with speak feeling with other emotions
     2: means base the high levels
 
-all these multi-means make up every one Chinese word, and this style also embedded into process order for write Chinese words, every word write by hand just like draw one tiny picture, so different with type just click keyboard.
+all these multi-means make up every Chinese character, 
+and this style also embedded into process order for write Chinese character, 
+every word write by hand just like draw one tiny picture, 
+so different with type out English, just click keyboard.
 
-so, because, writing is movie from thinking, but thinking base language, that me and when I write Chinese words, write on paper with pencil, is hugely different type onto screen under IME helping.
+so, because writing is movie from thinking, 
+but thinking base language, 
+that make I write Chinese words, write on paper with pencil, is hugely different type onto screen under IME helping.
 
-type block my Chinese soul, handwriting in paper is the best way for Chinese writing.
+type block my Chinese soul, 
+handwriting in paper is the best way for Chinese writing.
 
 so, the next problem is:
 
